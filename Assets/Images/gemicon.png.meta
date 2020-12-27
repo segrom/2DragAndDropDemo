@@ -1,0 +1,2926 @@
+fileFormatVersion: 2
+guid: 327456274f321c94291cb2d856a1134d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4123632479063097851
+    second: gemicon_0
+  - first:
+      213: -435730741709655189
+    second: gemicon_1
+  - first:
+      213: 5280910035513793910
+    second: gemicon_2
+  - first:
+      213: -2417810356151204934
+    second: gemicon_3
+  - first:
+      213: -3144985243880599442
+    second: gemicon_4
+  - first:
+      213: 4037052931363060718
+    second: gemicon_5
+  - first:
+      213: -5832741550277205581
+    second: gemicon_6
+  - first:
+      213: -169208479880403249
+    second: gemicon_7
+  - first:
+      213: 2467889244062216965
+    second: gemicon_8
+  - first:
+      213: -2798224045475595626
+    second: gemicon_9
+  - first:
+      213: 1632900299998367870
+    second: gemicon_10
+  - first:
+      213: -1234748213391255562
+    second: gemicon_11
+  - first:
+      213: -4401119013874869025
+    second: gemicon_12
+  - first:
+      213: 1585008415724944140
+    second: gemicon_13
+  - first:
+      213: 1046392229750738689
+    second: gemicon_14
+  - first:
+      213: -6216164761917304713
+    second: gemicon_15
+  - first:
+      213: -6550249363339304083
+    second: gemicon_16
+  - first:
+      213: 8831134843080694631
+    second: gemicon_17
+  - first:
+      213: 6902059549689540535
+    second: gemicon_18
+  - first:
+      213: 1092604076537045158
+    second: gemicon_19
+  - first:
+      213: 9167691635596220463
+    second: gemicon_20
+  - first:
+      213: 5316488631929542396
+    second: gemicon_21
+  - first:
+      213: 6704645251816771087
+    second: gemicon_22
+  - first:
+      213: 2816212510417398303
+    second: gemicon_23
+  - first:
+      213: 8922311200907155331
+    second: gemicon_24
+  - first:
+      213: -4013015049172310384
+    second: gemicon_25
+  - first:
+      213: 7648131277598311829
+    second: gemicon_26
+  - first:
+      213: -4805598122973719337
+    second: gemicon_27
+  - first:
+      213: 1533699450661666920
+    second: gemicon_28
+  - first:
+      213: -5328052116410985313
+    second: gemicon_29
+  - first:
+      213: -2198419665476085471
+    second: gemicon_30
+  - first:
+      213: 7249129950013431325
+    second: gemicon_31
+  - first:
+      213: -1128253587881854184
+    second: gemicon_32
+  - first:
+      213: -4171674734713417531
+    second: gemicon_33
+  - first:
+      213: -6173375485415648657
+    second: gemicon_34
+  - first:
+      213: 3093308664410154046
+    second: gemicon_35
+  - first:
+      213: -5316348105379633407
+    second: gemicon_36
+  - first:
+      213: 2512706950581651077
+    second: gemicon_37
+  - first:
+      213: -5606682403047134993
+    second: gemicon_38
+  - first:
+      213: -669374748823614479
+    second: gemicon_39
+  - first:
+      213: -5208494524482955104
+    second: gemicon_40
+  - first:
+      213: -8558492300574526875
+    second: gemicon_41
+  - first:
+      213: 6429663227165235003
+    second: gemicon_42
+  - first:
+      213: -5652196176631265031
+    second: gemicon_43
+  - first:
+      213: 4249377983910908542
+    second: gemicon_44
+  - first:
+      213: 749406489945448812
+    second: gemicon_45
+  - first:
+      213: 234513193732333690
+    second: gemicon_46
+  - first:
+      213: 6273778937932450759
+    second: gemicon_47
+  - first:
+      213: 5456016640824945766
+    second: gemicon_48
+  - first:
+      213: -43080399021292566
+    second: gemicon_49
+  - first:
+      213: -8799039596379660113
+    second: gemicon_50
+  - first:
+      213: -2080903502408486810
+    second: gemicon_51
+  - first:
+      213: 2363787122439906219
+    second: gemicon_52
+  - first:
+      213: -6219795660796198694
+    second: gemicon_53
+  - first:
+      213: -7537180334950524228
+    second: gemicon_54
+  - first:
+      213: 8824122126502475484
+    second: gemicon_55
+  - first:
+      213: -6857677118071593296
+    second: gemicon_56
+  - first:
+      213: -2022216235894797349
+    second: gemicon_57
+  - first:
+      213: -7471922342693847822
+    second: gemicon_58
+  - first:
+      213: 5225221988285373886
+    second: gemicon_59
+  - first:
+      213: -1949186745205810398
+    second: gemicon_60
+  - first:
+      213: 8755685086018353013
+    second: gemicon_61
+  - first:
+      213: -3057117824892247827
+    second: gemicon_62
+  - first:
+      213: 2354409424156109485
+    second: gemicon_63
+  - first:
+      213: -6877770996808779470
+    second: gemicon_64
+  - first:
+      213: 4449368364546116824
+    second: gemicon_65
+  - first:
+      213: -2263368381240714815
+    second: gemicon_66
+  - first:
+      213: 1203329167589157277
+    second: gemicon_67
+  - first:
+      213: 2470735697739695813
+    second: gemicon_68
+  - first:
+      213: 1016276672471002159
+    second: gemicon_69
+  - first:
+      213: -8698978648457554745
+    second: gemicon_70
+  - first:
+      213: -7577975880732253630
+    second: gemicon_71
+  - first:
+      213: 505924728164166959
+    second: gemicon_72
+  - first:
+      213: 4479543171057021545
+    second: gemicon_73
+  - first:
+      213: 8000680557563950358
+    second: gemicon_74
+  - first:
+      213: 3174820647735787234
+    second: gemicon_75
+  - first:
+      213: 3635725044480607692
+    second: gemicon_76
+  - first:
+      213: 3616069915077796634
+    second: gemicon_77
+  - first:
+      213: 2824650425066860076
+    second: gemicon_78
+  - first:
+      213: 7768682226448165767
+    second: gemicon_79
+  - first:
+      213: 1987365110768718765
+    second: gemicon_80
+  - first:
+      213: 5979555949327162358
+    second: gemicon_81
+  - first:
+      213: 3618975305672403334
+    second: gemicon_82
+  - first:
+      213: -6508487607869882094
+    second: gemicon_83
+  - first:
+      213: -4859791254541721677
+    second: gemicon_84
+  - first:
+      213: -5803082314650514913
+    second: gemicon_85
+  - first:
+      213: 7028369016367067012
+    second: gemicon_86
+  - first:
+      213: 714085105533084524
+    second: gemicon_87
+  - first:
+      213: 5907811687446976579
+    second: gemicon_88
+  - first:
+      213: -4587341586713802222
+    second: gemicon_89
+  - first:
+      213: 7476049087503312941
+    second: gemicon_90
+  - first:
+      213: 1622415779481466880
+    second: gemicon_91
+  - first:
+      213: 220028130041915760
+    second: gemicon_92
+  - first:
+      213: -7100611888281915356
+    second: gemicon_93
+  - first:
+      213: -1620749688383646035
+    second: gemicon_94
+  - first:
+      213: -880523454195917896
+    second: gemicon_95
+  - first:
+      213: -8485364085979749241
+    second: gemicon_96
+  - first:
+      213: 927766811069791971
+    second: gemicon_97
+  - first:
+      213: -8650546970533451241
+    second: gemicon_98
+  - first:
+      213: 8037020311292864861
+    second: gemicon_99
+  - first:
+      213: 6025144409746500707
+    second: gemicon_100
+  - first:
+      213: 7794603670345554402
+    second: gemicon_101
+  - first:
+      213: -4058486316093572885
+    second: gemicon_102
+  - first:
+      213: -1760696710435931622
+    second: gemicon_103
+  - first:
+      213: 1137410244987721999
+    second: gemicon_104
+  - first:
+      213: 8355689348365680245
+    second: gemicon_105
+  - first:
+      213: 5236966792295432011
+    second: gemicon_106
+  - first:
+      213: -3450275885929110494
+    second: gemicon_107
+  - first:
+      213: -6533839259177787957
+    second: gemicon_108
+  - first:
+      213: -7577435714737388832
+    second: gemicon_109
+  - first:
+      213: -385261131326584251
+    second: gemicon_110
+  - first:
+      213: -5826583014654341059
+    second: gemicon_111
+  - first:
+      213: -5051646964146518762
+    second: gemicon_112
+  - first:
+      213: 7786640528787697725
+    second: gemicon_113
+  - first:
+      213: -620922452964774098
+    second: gemicon_114
+  - first:
+      213: 3154813316808799163
+    second: gemicon_115
+  - first:
+      213: -2374492998487546313
+    second: gemicon_116
+  - first:
+      213: 6399897487432852555
+    second: gemicon_117
+  - first:
+      213: 262368149991396380
+    second: gemicon_118
+  - first:
+      213: 9201053527808147935
+    second: gemicon_119
+  - first:
+      213: 1136539508809836313
+    second: gemicon_120
+  - first:
+      213: -8648311326157363289
+    second: gemicon_121
+  - first:
+      213: 7902772955807964922
+    second: gemicon_122
+  - first:
+      213: -7287904194335010666
+    second: gemicon_123
+  - first:
+      213: -2344503553906807512
+    second: gemicon_124
+  - first:
+      213: -7359293643195849490
+    second: gemicon_125
+  - first:
+      213: -7922429881615932320
+    second: gemicon_126
+  - first:
+      213: -3730841322843505386
+    second: gemicon_127
+  - first:
+      213: -2406626851498200822
+    second: gemicon_128
+  - first:
+      213: 6307400567420088831
+    second: gemicon_129
+  - first:
+      213: -225545832011435287
+    second: gemicon_130
+  - first:
+      213: 7463624956271827716
+    second: gemicon_131
+  - first:
+      213: -5354882242758831097
+    second: gemicon_132
+  - first:
+      213: 5818734184357360845
+    second: gemicon_133
+  - first:
+      213: -1049445589722563960
+    second: gemicon_134
+  - first:
+      213: 8559796346766241359
+    second: gemicon_135
+  - first:
+      213: -2362921355289009077
+    second: gemicon_136
+  - first:
+      213: 7082147039273368494
+    second: gemicon_137
+  - first:
+      213: -4462703157598351697
+    second: gemicon_138
+  - first:
+      213: 2704809483767248760
+    second: gemicon_139
+  - first:
+      213: -2637541710271622342
+    second: gemicon_140
+  - first:
+      213: -1540675621202004095
+    second: gemicon_141
+  - first:
+      213: -4017051377141256734
+    second: gemicon_142
+  - first:
+      213: -5073321837708973989
+    second: gemicon_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gemicon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1c1da44e51a3930800000000000000
+      internalID: 4123632479063097851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 436
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63bda2f239f3f9f0800000000000000
+      internalID: -435730741709655189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 436
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d5895a2bf894940800000000000000
+      internalID: 5280910035513793910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 436
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3c85b8a46327ed0800000000000000
+      internalID: -2417810356151204934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 436
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60d6a26594ca54d0800000000000000
+      internalID: -3144985243880599442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 436
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb3859704e760830800000000000000
+      internalID: 4037052931363060718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 436
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1e0159670fd0fa0800000000000000
+      internalID: -5832741550277205581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 436
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6aeb7b8c9d6adf0800000000000000
+      internalID: -169208479880403249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 436
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503f5592134bf3220800000000000000
+      internalID: 2467889244062216965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_9
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 436
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a78776e06ba29d0800000000000000
+      internalID: -2798224045475595626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_10
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 436
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70180fdb2a39a610800000000000000
+      internalID: 1632900299998367870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_11
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 436
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f714c9ba0b4ddee0800000000000000
+      internalID: -1234748213391255562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_12
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 436
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc55c333951ce2c0800000000000000
+      internalID: -4401119013874869025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_13
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 436
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b3a41a1c41ff510800000000000000
+      internalID: 1585008415724944140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f850e5038858e00800000000000000
+      internalID: 1046392229750738689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 374
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7705e9c651fbbb9a0800000000000000
+      internalID: -6216164761917304713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 374
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63aee3a8e6d815a0800000000000000
+      internalID: -6550249363339304083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 374
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b5665b95e7e8a70800000000000000
+      internalID: 8831134843080694631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_18
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 374
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf66dd779a09cf50800000000000000
+      internalID: 6902059549689540535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 374
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a062266e95b92f00800000000000000
+      internalID: 1092604076537045158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 374
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28580658fe2a3f70800000000000000
+      internalID: 9167691635596220463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_21
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 374
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf610962e36f7c940800000000000000
+      internalID: 5316488631929542396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_22
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 374
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e4c83755fab0d50800000000000000
+      internalID: 6704645251816771087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_23
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 374
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aa0777b52351720800000000000000
+      internalID: 2816212510417398303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_24
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 374
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3875f89c3ca62db70800000000000000
+      internalID: 8922311200907155331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_25
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 374
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096a9cb1318ee48c0800000000000000
+      internalID: -4013015049172310384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_26
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 374
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5954dcc10ee932a60800000000000000
+      internalID: 7648131277598311829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_27
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 374
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d41ed2e7f51f4db0800000000000000
+      internalID: -4805598122973719337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86086e4468bc84510800000000000000
+      internalID: 1533699450661666920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_29
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 312
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f941e8054d4fe06b0800000000000000
+      internalID: -5328052116410985313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 312
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129901446f4ad71e0800000000000000
+      internalID: -2198419665476085471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 312
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e123138451a9460800000000000000
+      internalID: 7249129950013431325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_32
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 312
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bfdbde653a750f0800000000000000
+      internalID: -1128253587881854184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 312
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c05fe66eeb3b16c0800000000000000
+      internalID: -4171674734713417531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_34
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 312
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6212b634b3c35aa0800000000000000
+      internalID: -6173375485415648657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_35
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 312
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e342eca57d3adea20800000000000000
+      internalID: 3093308664410154046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_36
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 312
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107a68cb0998836b0800000000000000
+      internalID: -5316348105379633407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_37
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 312
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586031e98adeed220800000000000000
+      internalID: 2512706950581651077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_38
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 312
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe821f55f001132b0800000000000000
+      internalID: -5606682403047134993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_39
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 312
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb80c26637e5b6f0800000000000000
+      internalID: -669374748823614479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_40
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 312
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a850a563d5b7b7b0800000000000000
+      internalID: -5208494524482955104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_41
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 312
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562f653f8902a3980800000000000000
+      internalID: -8558492300574526875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b375398a3a0ca3950800000000000000
+      internalID: 6429663227165235003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 250
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f88213268d5f81b0800000000000000
+      internalID: -5652196176631265031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_44
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 250
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72106f13c2d8fa30800000000000000
+      internalID: 4249377983910908542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 250
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6122996b3d666a00800000000000000
+      internalID: 749406489945448812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_46
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 250
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70ee87d188214300800000000000000
+      internalID: 234513193732333690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_47
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 250
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb8ac244b0f01750800000000000000
+      internalID: 6273778937932450759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_48
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 250
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cadf44a3aa7bb40800000000000000
+      internalID: 5456016640824945766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_49
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 250
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3cd87fa92f66ff0800000000000000
+      internalID: -43080399021292566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_50
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 250
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0a13d3b1883e580800000000000000
+      internalID: -8799039596379660113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_51
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 250
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66073172a452f13e0800000000000000
+      internalID: -2080903502408486810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_52
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 250
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba36cad2ddbddc020800000000000000
+      internalID: 2363787122439906219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_53
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 250
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad00ab6ecc8dea9a0800000000000000
+      internalID: -6219795660796198694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_54
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 250
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbad6374b6e866790800000000000000
+      internalID: -7537180334950524228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_55
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 250
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd638d46254957a70800000000000000
+      internalID: 8824122126502475484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6a401aef2a4d0a0800000000000000
+      internalID: -6857677118071593296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_57
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 188
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb86703c05afe3e0800000000000000
+      internalID: -2022216235894797349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_58
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 188
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcbd6e97366e4890800000000000000
+      internalID: -7471922342693847822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_59
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 188
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd5f44c6b7b38840800000000000000
+      internalID: 5225221988285373886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_60
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 188
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b9b138bf813f4e0800000000000000
+      internalID: -1949186745205810398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_61
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 188
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5773f453231728970800000000000000
+      internalID: 8755685086018353013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_62
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 188
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de068ca198fe295d0800000000000000
+      internalID: -3057117824892247827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_63
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 188
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa28a6a5ea8ca020800000000000000
+      internalID: 2354409424156109485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_64
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 188
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2397ab8e7bf3d80a0800000000000000
+      internalID: -6877770996808779470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_65
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 188
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcc1ab24f45fbd30800000000000000
+      internalID: 4449368364546116824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_66
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 188
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9db48f276e690e0800000000000000
+      internalID: -2263368381240714815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_67
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 188
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99a40e908513b010800000000000000
+      internalID: 1203329167589157277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_68
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 188
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6c6adc601d94220800000000000000
+      internalID: 2470735697739695813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_69
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 188
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c6628cf3a8a1e00800000000000000
+      internalID: 1016276672471002159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4daf52205074780800000000000000
+      internalID: -8698978648457554745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_71
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 126
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242e978161f95d690800000000000000
+      internalID: -7577975880732253630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_72
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 126
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2daf491cd7650700800000000000000
+      internalID: 505924728164166959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_73
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 126
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96271eac7c88a2e30800000000000000
+      internalID: 4479543171057021545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_74
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 126
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61539f2e390280f60800000000000000
+      internalID: 8000680557563950358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_75
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 126
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eefdd5ee8a3f0c20800000000000000
+      internalID: 3174820647735787234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_76
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 126
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc502414aa0b47230800000000000000
+      internalID: 3635725044480607692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_77
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 126
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a136033dd6cde2230800000000000000
+      internalID: 3616069915077796634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_78
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 126
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e24c0989c233720800000000000000
+      internalID: 2824650425066860076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_79
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 126
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b65502357efcb60800000000000000
+      internalID: 7768682226448165767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_80
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 126
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3df5ae90a849b10800000000000000
+      internalID: 1987365110768718765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_81
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 126
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb18327476abf250800000000000000
+      internalID: 5979555949327162358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_82
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 126
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689a389cdde293230800000000000000
+      internalID: 3618975305672403334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_83
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 126
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21142eb01053da5a0800000000000000
+      internalID: -6508487607869882094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf9d7e2a9d8e8cb0800000000000000
+      internalID: -4859791254541721677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_85
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 64
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a87e0816f477fa0800000000000000
+      internalID: -5803082314650514913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_86
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 64
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fabeae168c98160800000000000000
+      internalID: 7028369016367067012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_87
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 64
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6362bebe90f8e900800000000000000
+      internalID: 714085105533084524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_88
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 64
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3489d26cd63ccf150800000000000000
+      internalID: 5907811687446976579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_89
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 64
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a0c84b12d7650c0800000000000000
+      internalID: -4587341586713802222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_90
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 64
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28a408090340c760800000000000000
+      internalID: 7476049087503312941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_91
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 64
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0083bf53e8af38610800000000000000
+      internalID: 1622415779481466880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_92
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 64
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079edb32b62bd0300800000000000000
+      internalID: 220028130041915760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_93
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 64
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4207a07bb1f857d90800000000000000
+      internalID: -7100611888281915356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_94
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 64
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6511adeb0f189e0800000000000000
+      internalID: -1620749688383646035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_95
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 64
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb90486590c7c3f0800000000000000
+      internalID: -880523454195917896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_96
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 64
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784e159325eed3a80800000000000000
+      internalID: -8485364085979749241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_97
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 64
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee3638cff610ec00800000000000000
+      internalID: 927766811069791971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aa584ec5513f780800000000000000
+      internalID: -8650546970533451241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_99
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59e533246b398f60800000000000000
+      internalID: 8037020311292864861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_100
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cee570bec9d9350800000000000000
+      internalID: 6025144409746500707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_101
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e917e79dbefb2c60800000000000000
+      internalID: 7794603670345554402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_102
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be87573c23c5da7c0800000000000000
+      internalID: -4058486316093572885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_103
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a7441abafb097e0800000000000000
+      internalID: -1760696710435931622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_104
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0912607794e8cf00800000000000000
+      internalID: 1137410244987721999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_105
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ef9d6213f55f370800000000000000
+      internalID: 8355689348365680245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_106
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f394b0d817da840800000000000000
+      internalID: 5236966792295432011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_107
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2246912bc582e10d0800000000000000
+      internalID: -3450275885929110494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_108
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdd431cfc32355a0800000000000000
+      internalID: -6533839259177787957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_109
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e248ba4d5a87d690800000000000000
+      internalID: -7577435714737388832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_110
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a8381da0747aaf0800000000000000
+      internalID: -385261131326584251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemicon_111
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 2
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3014356e91d32fa0800000000000000
+      internalID: -5826583014654341059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
