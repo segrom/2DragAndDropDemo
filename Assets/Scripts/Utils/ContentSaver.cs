@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
+using System.Threading.Tasks;
 using Newtonsoft.Json;
 using UnityEngine;
 
@@ -13,25 +15,50 @@ namespace DragAndDropDemo.Utils
         }
 
         #if PLATFORM_STANDALONE_WIN
-        
-        public void Save(){
+
+        private Queue<Action> _asyncActions = new Queue<Action>();
+
+        private void Update(){
+            while (_asyncActions.Count>0){
+                _asyncActions.Dequeue().Invoke();
+            }
+            _asyncActions = new Queue<Action>();
+        }
+
+        public async void Save(){
+            LoadingPanel.PushTask();
             var path = Application.dataPath+"/NodesSave.json";
             var json = JsonConvert.SerializeObject(new JsonSaveFile(Workspace.Instance.GetNodes()));
-            File.WriteAllText(path, json);
+            using (StreamWriter writer = File.CreateText(path)){
+                await writer.WriteAsync(json);
+            }
             print(json);
+            LoadingPanel.PopTask();
         }
 
         public void ClearAll(){
             Workspace.Instance.ClearAll();
         }
         
-        public void Load(){
+        public async void Load(){
+            LoadingPanel.PushTask();
             ClearAll();
             var path = Application.dataPath+"/NodesSave.json";
-            var json = File.ReadAllText(path);
+            var json = "";
+            using (StreamReader reader = File.OpenText(path)){
+                 json = await reader.ReadToEndAsync();
+            }
             var file = JsonConvert.DeserializeObject<JsonSaveFile>(json);
-            InstanceWorkspaceNodes(file.AllNodes);
-            print(json);
+            _asyncActions.Enqueue(() => { InstanceWorkspaceNodes(file.AllNodes); });
+            _asyncActions.Enqueue(()=> { print(json); });
+            await WaitZeroActions();
+            LoadingPanel.PopTask();
+        }
+
+        private async Task WaitZeroActions(){
+            while (_asyncActions.Count>0){
+                await Task.Delay(25);
+            }
         }
         
         public void InstanceWorkspaceNodes(NodeSave[] AllNodes){
@@ -39,7 +66,8 @@ namespace DragAndDropDemo.Utils
                 var save = AllNodes[i];
                 var newNode = Instantiate(nodePref,Workspace.Instance.transform);
                 newNode.sprite = ContentManager.Instance.GetSpriteById(save.spriteId);
-                newNode.transform.position = new Vector3(save.posX,save.posY,save.posZ);
+                newNode.transform.position =Workspace.Instance.transform.TransformPoint(new Vector3(save.posX,
+                 save.posY, save.posZ));
                 newNode.Name = save.Name;
                 newNode.SetColor(save.Color.GetColor());
                 Workspace.Instance.AddNode(newNode);
@@ -59,7 +87,7 @@ namespace DragAndDropDemo.Utils
                 AllNodes = new NodeSave[allNodes.Length];
                 for (int i = 0; i < allNodes.Length; i++){
                     var node = allNodes[i];
-                    AllNodes[i] = new NodeSave(node.Name,ContentManager.Instance.GetSpriteId(node.sprite),node.transform.position,new ColorSave(node.GetColor()));
+                    AllNodes[i] = new NodeSave(node.Name,ContentManager.Instance.GetSpriteId(node.sprite),Workspace.Instance.transform.InverseTransformPoint(node.transform.position),new ColorSave(node.GetColor()));
                 }
             }
             
